@@ -1,0 +1,14 @@
+/Users/jesus/Projects/UruIt.God/UruIt.God/bin/Debug/netcoreapp2.2/UruIt.God.deps.json
+/Users/jesus/Projects/UruIt.God/UruIt.God/bin/Debug/netcoreapp2.2/UruIt.God.runtimeconfig.json
+/Users/jesus/Projects/UruIt.God/UruIt.God/bin/Debug/netcoreapp2.2/UruIt.God.runtimeconfig.dev.json
+/Users/jesus/Projects/UruIt.God/UruIt.God/bin/Debug/netcoreapp2.2/UruIt.God.dll
+/Users/jesus/Projects/UruIt.God/UruIt.God/bin/Debug/netcoreapp2.2/UruIt.God.pdb
+/Users/jesus/Projects/UruIt.God/UruIt.God/obj/Debug/netcoreapp2.2/UruIt.God.csproj.CoreCompileInputs.cache
+/Users/jesus/Projects/UruIt.God/UruIt.God/obj/Debug/netcoreapp2.2/UruIt.God.RazorAssemblyInfo.cache
+/Users/jesus/Projects/UruIt.God/UruIt.God/obj/Debug/netcoreapp2.2/UruIt.God.RazorAssemblyInfo.cs
+/Users/jesus/Projects/UruIt.God/UruIt.God/obj/Debug/netcoreapp2.2/UruIt.God.AssemblyInfoInputs.cache
+/Users/jesus/Projects/UruIt.God/UruIt.God/obj/Debug/netcoreapp2.2/UruIt.God.AssemblyInfo.cs
+/Users/jesus/Projects/UruIt.God/UruIt.God/obj/Debug/netcoreapp2.2/UruIt.God.RazorTargetAssemblyInfo.cache
+/Users/jesus/Projects/UruIt.God/UruIt.God/obj/Debug/netcoreapp2.2/UruIt.God.dll
+/Users/jesus/Projects/UruIt.God/UruIt.God/obj/Debug/netcoreapp2.2/UruIt.God.pdb
+/Users/jesus/Projects/UruIt.God/UruIt.God/obj/Debug/netcoreapp2.2/UruIt.God.csprojAssemblyReference.cache
